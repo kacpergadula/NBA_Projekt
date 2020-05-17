@@ -1,0 +1,7 @@
+https://www.balldontlie.io/#get-all-players
+
+
+Get All Players
+
+HTTP Request
+GET https://www.balldontlie.io/api/v1/players

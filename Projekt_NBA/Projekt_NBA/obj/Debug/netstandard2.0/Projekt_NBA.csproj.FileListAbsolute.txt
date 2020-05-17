@@ -1,0 +1,16 @@
+C:\Users\Kacper\source\repos\Projekt_NBA\Projekt_NBA\Projekt_NBA\obj\Debug\netstandard2.0\Projekt_NBA.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\Projekt_NBA\Projekt_NBA\Projekt_NBA\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kacper\source\repos\Projekt_NBA\Projekt_NBA\Projekt_NBA\obj\Debug\netstandard2.0\Views\DetailsPage.xaml.g.cs
+C:\Users\Kacper\source\repos\Projekt_NBA\Projekt_NBA\Projekt_NBA\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\Kacper\source\repos\Projekt_NBA\Projekt_NBA\Projekt_NBA\obj\Debug\netstandard2.0\Views\RootTabbedPage.xaml.g.cs
+C:\Users\Kacper\source\repos\Projekt_NBA\Projekt_NBA\Projekt_NBA\obj\Debug\netstandard2.0\Views\SettingsPage.xaml.g.cs
+C:\Users\Kacper\source\repos\Projekt_NBA\Projekt_NBA\Projekt_NBA\obj\Debug\netstandard2.0\Projekt_NBA.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\Projekt_NBA\Projekt_NBA\Projekt_NBA\obj\Debug\netstandard2.0\Projekt_NBA.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\Projekt_NBA\Projekt_NBA\Projekt_NBA\obj\Debug\netstandard2.0\Projekt_NBA.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\Projekt_NBA\Projekt_NBA\Projekt_NBA\bin\Debug\netstandard2.0\Projekt_NBA.deps.json
+C:\Users\Kacper\source\repos\Projekt_NBA\Projekt_NBA\Projekt_NBA\bin\Debug\netstandard2.0\Projekt_NBA.dll
+C:\Users\Kacper\source\repos\Projekt_NBA\Projekt_NBA\Projekt_NBA\bin\Debug\netstandard2.0\Projekt_NBA.pdb
+C:\Users\Kacper\source\repos\Projekt_NBA\Projekt_NBA\Projekt_NBA\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Kacper\source\repos\Projekt_NBA\Projekt_NBA\Projekt_NBA\obj\Debug\netstandard2.0\Projekt_NBA.dll
+C:\Users\Kacper\source\repos\Projekt_NBA\Projekt_NBA\Projekt_NBA\obj\Debug\netstandard2.0\Projekt_NBA.pdb
+C:\Users\Kacper\source\repos\Projekt_NBA\Projekt_NBA\Projekt_NBA\obj\Debug\netstandard2.0\Styles\Styles.xaml.g.cs
